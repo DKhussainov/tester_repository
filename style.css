@@ -1,0 +1,65 @@
+textarea{
+    resize: vertical;
+    min-height: 20px;
+    max-height: 100px;
+}
+.center{
+    width: 1000px;
+    height: 700px;
+    background-color: orangered;
+    padding-top: 1px;
+}
+.center2{
+    background-color: rgb(168, 163, 163);
+    width: 300px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tag{
+    text-align: center;
+    padding-top: 35px;
+}
+.username{
+    margin: 10px 45px ;
+    width: 200px;
+    height: 30px;
+
+}
+.login{
+    margin: 10px 45px ;
+    width: 206px;
+    height: 30px;
+    background-color: green;
+    text-align: center;
+
+}
+.textCenter{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    
+}
+.forget{
+    color: red;
+    text-align: center;
+}
+.false{
+    color: white;
+    text-align: center;
+}
+.miniBlock{
+    width: 100px;
+    height: 40px;
+   
+    text-align: center;
+    margin: auto;
+    
+    
+}
+.pop{
+    display: flex;
+    background-color: blue;
+    width: 100px;
+    height: 40px;
+}
